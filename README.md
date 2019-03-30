@@ -1,12 +1,16 @@
 This is an API developed in Flask, SqlAlchemy and Sqlite
 To use it locally,
 
-
 clone the app
-got to project folder
+
+goto to project folder
+
 create virtual env using 'python{your-version) -m venv env'
+
 Activates the virtual environment using 'source env/bin/activate'
+
 Install all dependencies
+
 pip install -r requirements.txt
 
 
